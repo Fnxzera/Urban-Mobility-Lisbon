@@ -11,14 +11,12 @@ Provide recommendations for improving traffic management based on the analysis r
 # Dataset
 The dataset consists of the following columns:
 
-1. impact: Level of impact caused by the traffic restriction.
-2. restriction_circulation: Type of traffic restriction.
+1. impacto: Level of impact caused by the traffic restriction.
+2. motivo: Type of traffic restriction.
 3. morada: Location where the restriction is applied.
-4. motivo: Reason for the restriction (e.g., filming, construction).
-5. creation_date: Date and time when the restriction was created.
-6. Data_Inicio: Start date of the restriction.
-7. Data_Termino: End date of the restriction.
-8. Duração: Duration of the restriction.
+4. Data_Inicio: Start date of the restriction.
+5. Data_Termino: End date of the restriction.
+6. Duração: Duration of the restriction.
 # Operations Performed
   1. Data Preprocessing:
   Removed duplicates and missing values.
@@ -29,7 +27,7 @@ The dataset consists of the following columns:
   Investigated the impact of restrictions on different locations and reasons.
   3. Visualization:
   Visualized key findings using plots and charts.
-Created interactive maps to display the distribution of traffic restrictions.
+
 
 # How to Use
 To reproduce the analysis, follow these steps:
