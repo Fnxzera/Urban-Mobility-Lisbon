@@ -1,6 +1,6 @@
 # Urban-Mobility-Lisbon
 Overview
-This project focuses on analyzing urban mobility data to gain insights into traffic restrictions and their impact on different locations. The dataset used in this project contains information about traffic restrictions due to various reasons such as filming, construction, and events, along with their impact, location, and duration.
+This project focuses on analyzing urban mobility data to gain insights into traffic restrictions on 2021 and their impact on different locations. The dataset used in this project contains information about traffic restrictions due to various reasons such as filming, construction, and events, along with their impact, location, and duration.
 
 # Project Goals
 The main objectives of this project are:
